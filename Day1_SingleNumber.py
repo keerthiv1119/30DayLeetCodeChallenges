@@ -23,7 +23,7 @@ def single1(ar):
             h[ar[i]] = count + 1
     min_ = min(h, key=h.get)
     return min_
-#optimal solutions with O(n) time complexity and O(1) space Complexity
+#optimal solutions with O(n) time complexity and O(1) space Complexity using XOR operations.
 def single3(ar):
     from functools import reduce
     return reduce(lambda x , y : x ^ y , ar,0)#Easy Notation
