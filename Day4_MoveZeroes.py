@@ -1,3 +1,8 @@
+'''
+Author : Keerthi Vutukuri
+Date : 02- 04-2020
+Name :Move Zeroes
+'''
 nums = [0,1,0,3,12]
 count = 0
 for i in range(len(nums)):
