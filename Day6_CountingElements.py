@@ -1,3 +1,8 @@
+'''
+Author : Keerthi Vutukuri
+Date : 03- 04-2020
+Name : Counting Elements
+'''
 def countElements(self, arr: List[int]) -> int:
         dictionary = {}
         for i in arr:
