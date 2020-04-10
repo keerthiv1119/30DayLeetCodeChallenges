@@ -1,6 +1,6 @@
 '''
 Author : Keerthi Vutukuri
-Date : 02- 04-2020
+Date : 05- 04-2020
 Name : Best Time to Buy and Sell Stock II
 '''
 def maxProfit(prices):
