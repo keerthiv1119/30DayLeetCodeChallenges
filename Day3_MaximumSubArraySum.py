@@ -1,6 +1,6 @@
 '''
 Author : Keerthi Vutukuri
-Date : 02- 04-2020
+Date : 03- 04-2020
 Name : Maximum Sub Array Sum
 '''
 def maxSubArray(nums):
