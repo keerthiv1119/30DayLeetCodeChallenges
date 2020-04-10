@@ -1,6 +1,6 @@
 '''
 Author : Keerthi Vutukuri
-Date : 02- 04-2020
+Date : 04- 04-2020
 Name :Move Zeroes
 '''
 nums = [0,1,0,3,12]
